@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Student[] students = new Student[3];
+            Student[] students = new Student[7];
 
             for (int i = 0; i < students.Length; i++)
             {
